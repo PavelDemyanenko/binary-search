@@ -35,7 +35,7 @@ x = 30
 result = binarySearch(arr, 0, len(arr)-1, x) 
   
 if result != -1: 
-    print("Element is present at index", x, "is present at", result) 
+    print("Element", x, "is present at", result) 
 else: 
     print("Element is not present in array")
 

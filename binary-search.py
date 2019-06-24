@@ -39,4 +39,4 @@ if result != -1:
 else: 
     print("Element is not present in array")
 
-# Element is present at index 3
+# Element 30 is present at index 3
